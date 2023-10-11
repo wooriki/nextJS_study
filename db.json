@@ -1,0 +1,36 @@
+{
+  "topics": [
+    {
+      "id": 1,
+      "title": "html1",
+      "body": "html1 is about that..."
+    },
+    {
+      "id": 2,
+      "title": "css",
+      "body": "css is..."
+    },
+    {
+      "title": "소히!!!!!!!!!!!!!",
+      "body": "소히내용@@@",
+      "id": 3
+    }
+  ],
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "shit!!!!!!!!!!!!!!!!!!",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
